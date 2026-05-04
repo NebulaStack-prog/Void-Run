@@ -3,14 +3,14 @@
 Pac-Man inspired maze game in NS style.
 
 ## 💻 Run:
-- Download [Calculator_v.1.exe](Calculator_v.1.exe)
+- Download [Void_Run.exe](Void_Run.exe)
   
-- Or run [Calculator_v.1.py](Calculator_v.1.py)
+- Or run [Void_Run.py](Void_Run.py)
 
 ## 📄 Full documentation:
-- 🇷🇺  Russian version [Document](README_RU.md)
+- 🇷🇺  Russian version [Document](Void_Run_RU.md)
   
-- 🇺🇲  English version: [Document](README_EN.md)
+- 🇺🇲  English version: [Document](Void_Run_EN.md)
 
 ## 📷 Screenshots:
 ![](screenshot1.png)
