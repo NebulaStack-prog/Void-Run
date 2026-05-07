@@ -13,6 +13,9 @@ Pac-Man inspired maze game in NS style.
 - 🇺🇲  English version: [Document](Void_Run_EN.md)
 
 ## 📷 Screenshots:
-![](screenshot1.png)
+![](VoidRun_1.jpg)
+![](VoidRun_2.jpg)
+![](VoidRun_3.jpg)
+![](VoidRun_4.jpg)
 
 © NebulaStack
