@@ -3,14 +3,9 @@
 Pac-Man inspired maze game in NS style.
 
 ## 💻 Run:
-- Download [Void_Run.exe](Void_Run.exe)
-  
-- Or run [Void_Run.py](Void_Run.py)
+- Open with Python: [Void_Run.py](Void_Run.py)
 
-## 💾 Code comments:
-- 🇷🇺 Russian version: [Comments](VoidRun_com_RU.py)
-  
-- 🇺🇲 English version: [Comments](VoidRun_com_EN.py)
+- Or download exe: [Void_Run.exe](https://github.com/NebulaStack-prog/Void-Run/releases/tag/v1.0)
 
 ## 📄 Full documentation:
 - 🇷🇺  Russian version [Documentation](Void_Run_RU.md)
