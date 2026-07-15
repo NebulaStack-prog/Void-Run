@@ -2,7 +2,7 @@
 
 <img src="https://github.com/NebulaStack-prog/Void-Run/raw/main/IMG_20260701_020313_481.jpg" width="200" height="230">
 
-Pac-Man inspired maze game in NS style.
+> Pac-Man inspired maze game in NS style.
 
 ## 💻 Project Run:
 - Open with Python: [Void_Run.py](Void_Run.py)
